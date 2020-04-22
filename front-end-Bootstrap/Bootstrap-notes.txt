@@ -1,0 +1,19 @@
+<!-- Required meta tags always come first -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="css/style.css">
+<title>Ristorante Con Fusion</title>
+
+<header class = "jumbotron"> for headers
+
+class = "container" to manage divs
+
+class = "row align-items-center/justify-content-center" for rows
+
+class = "col-auto col-12 col-sm col-md order-sm-last/first offset-1 align-self-center" for columns
+
+class="navbar navbar-dark navbar-expand-sm bg-primary fixed-top/fixed-bottom/static-top" for navigation
