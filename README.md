@@ -1,6 +1,4 @@
-# Web Development Specialization
-
-## Front-end Development using Bootstrap
+# Bootstrap Front-end Web Development
 
 > The project can be found in [conFusion](front-end-Bootstrap/Bootstrap4/conFusion).
 
