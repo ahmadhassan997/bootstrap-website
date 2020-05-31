@@ -6,4 +6,4 @@
 
 Please find a preview of the website
 
-![here](front-end-Bootstrap/Bootstrap4/conFusion/screenshot.png)
+![here](Bootstrap4/conFusion/screenshot.png)
